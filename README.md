@@ -92,12 +92,6 @@ chmod +x Xeexe.py && python3 Xeexe.py
 ## Update Log
 Version 1.0.1 = fix error first time run 
 
-
-## contact me
-
- Persian_hydra@Pm.me
-
- 
  
 ## Youtube Videos 
 
