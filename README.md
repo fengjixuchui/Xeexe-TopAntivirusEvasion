@@ -1,115 +1,75 @@
-# Xeexe      
- Undetectable Reverse shell & Xor encrypting with custom KEY(FUD Metasploit Rat) bypass Top Antivirus like   BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,...(PYTHON 3)
+# 🏆Pancakeswap BSC Sniper Bot web3 (ANDROID WINDOWS MAC LINUX) 
 
-******** <a href="https://imgbb.com/"><img src="https://i.ibb.co/PctQn6D/720-AFE98-CFC0-4761-9-DD0-B4-D74-C32-C733.jpg" alt="720-AFE98-CFC0-4761-9-DD0-B4-D74-C32-C733" border="0"></a> ********
-
-# FUD RAT  
+# GUI Pancakeswap 2 and Uniswap 3 SNIPER BOT V2 🏆🥇 
+<H3>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H3>
  
-[![Version](https://img.shields.io/badge/Xeexe-1.0.1-brightgreen.svg?maxAge=259200)]()
+## ⭐️⭐️⭐️First SNIPER BOT for ANDROID & WINDOWS & Linux with honeypot detector⭐️⭐️⭐️
+ 
+<H4>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H4>
+
+
+## ⭐️⭐️FINALLY VERSION 2 REALEASED⭐️⭐️
+#### 4X Faster with cython
+#### Fix bug BUY token After add LIQUIDITY
+#### Fix bug on android 11 (bug:close after start)
+#### Now you can set SLIPPAGE 0.1 
+#### ADD Auto SLIPPAGE
+
+ 
+![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
+
 [![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
-[![Available](https://img.shields.io/badge/Available-KaliLinux-orange.svg?maxAge=259200)]()
-[![Documentation](https://img.shields.io/badge/PERSIAN-HYDRA-red.svg?maxAge=259200)]()
-[![Contributions Welcome](https://img.shields.io/badge/Type-FUD-blue.svg?style=flat)]()
+[![Build](https://img.shields.io/badge/Supported_OS-ANDROID-orange.svg)]()
+[![Available](https://img.shields.io/badge/Available-ANDROID-orange.svg?maxAge=259200)]()
+[![Documentation](https://img.shields.io/badge/TOKEN-RADER-red.svg?maxAge=259200)]()
+[![Contributions Welcome](https://img.shields.io/badge/Type-FREE-blue.svg?style=flat)]()
+ 
 
-###  Undetectable Reverse shell (Metasploit Rat) 
+## Web3 Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 
-**Xeexe** is an FUD exploiting tool which compiles a malware with famous payload, and then the compiled maware can be executed on Windows **Xeexe** Provides An Easy way to create Backdoors and Payload which can bypass TOP antivirus.
+### The first Binance Smart Chain sniper bot with Honeypot checker!  
 
-bypass BitDefender.
-bypass NOD32.
-bypass Malwarebytes.
-bypass AVG.
-bypass Avast.
+# Screenshot📺
 
- ## Features !
-- python3 and Ngrok support.
-- Automatically Xor encrypting with custum KEY that you can use for increasing bypass Av.
-- Automatically Add Icon to executable.
-- Automatically Add Manifest to executable.
-- Bypass anti-virus backdoors with pure raw and xor.
-- Support os windows 7 to windows 10.
-- Fully Automating MSFvenom & Metasploit.
-- custum icon (copy your icon to icon folder and rename it to icon.ico)
-- add PowerShell to silent executable.
-- bypass Top Antivirus like BitDefender,Malwarebytes,Avast,ESET-NOD32,AVG,...
+<a href="https://ibb.co/CJmgG9M"><img src="https://i.ibb.co/8zNqZxd/2.png" alt="2" border="0"></a>
 
-## Thanks for Supporting me 
+<a href="https://ibb.co/rZZ7k4T"><img src="https://i.ibb.co/nDDgrzZ/Screenshot-2021-12-23-191501.png" alt="Screenshot-2021-12-23-191501" border="0"></a>
+
+
+### ⭐️First SNIPER BOT for ANDROID & WINDOWS with honeypot detector⭐️
+
+<H3>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H3>
+
+ 
+### Install
+
+First of all, you need install Python3+
+Run on Android you need Install [Termux](https://termux.com/)  
+
+## Install Requirements:  
+```python3
+pip install -r requirements.txt
+```  
+
+
+<H3>WHAT IS UNIQUE</h3>
+
+- Support ANDROID ,Windows 10 ,Linux and Mac OS
+- Add uniswap V3 & pancakeswap v2 
+- Added multiple DEXs
+- Force Buy and Force Sell buttons, when clicked it will buy or sell with your chosen settings (excluding limit price)
+- set manual SLIPPAGE 
+- set stop-less price
+- Speed adjustable
+- The program determines the name and decimals of the token automatically
+
+### INFO
+```shell
+termux: $ pkg install python git
+Debian/Ubuntu: $ sudo apt install python3 git make gcc
+Windows: Need to install Visual Studio BuildTools & Python3
 ```
-(TOP 50 Open Source Rat)
-https://awesomeopensource.com/projects/rat
-https://kalilinuxtutorials.com/xeexe/
-https://pentesttools.net/xeexe-undetectable-and-xor-encrypting-with-custom-key-fud-rat/
-https://modernnetsec.io/xeexe-undetectable-and-xor-encrypting-with-custom-key-fud-metasploit-rat/
-https://www.kitploit.com/2020/06/xeexe-undetectable-and-xor-encrypting.html
-https://www.newsbreak.com/news/0PVjs0GJ/xeexe-undetectable-xor-encrypting-with-custom-key-fud-metasploit-rat
-https://iransec.net/forums/topic/362-xeexe/
-https://www.themodernlogicgroup.com/tag/xeexe/
-https://reportcybercrime.com/undetectable-and-xor-encrypting-with-custom-key-fud-metasploit-rat/
-https://www.malwaredevil.com/xeexe-undetectable-xor-encrypting-with-custom-key-fud-metasploit-rat/?amp
-https://www.kengilmour.com/xeexe-undetectable-and-xor-encrypting-with-custom-key-fud-metasploit-rat/
-https://www.reddit.com/user/esgeeks/comments/hks6b9/xeexe_undetectable_reverse_shell_metasploit_rat/
-https://www.blueteam.news/2020/07/xeexe-undetectable-and-xor-encrypting.html
-https://eshttps://raidforums.com/Thread-XEEXE-Undetectable-Reverse-shell-Xor-encrypting-with-custom-KEY-FUD-Metasploit-Rageeks.com/xeexe-fud-reverse-shell-metasploit/
-http://www.finbit.org/persianhydra/Xeexe/stargazers/eAHLKCkpKLbS10_PLMkoTdJLzs_VL0gtKs5MzMuoTClK1I9ITa1I1S8uSSxKT6wCSgAAvvUSmA
-https://esgeeks.com/xeexe-fud-reverse-shell-metasploit/
-https://tsecurity.de/de/1162748/IT-Security/Cyber-Security-Nachrichten/Xeexe-Undetectable-And-XOR-Encrypting-With-Custom-KEY-FUD-Metasploit-RAT/
-https://hacker-gadgets.com/blog/tag/xeexe/
-https://esgeeks.com/xeexe-fud-reverse-shell-metasploit/
- ```
- 
-## TO DO
-  - [ ] Add Right To Left unicode (Rtlo Attack) - Example: Xegpj.exe => Xeexe.jpg 
-  - [ ] Add Random sign to Xeexe binary For Persistence FUD
-  - [ ] ...
 
-<a href="https://ibb.co/DpSD505"><img src="https://i.ibb.co/5FfWBbB/xechartt.jpg" alt="xechartt" border="0"></a>
-
-## Installation & How To Use
- Instructions on how to install *Xeexe*
-
- ```
-git clone https://github.com/META-HYDRA/Xeexe-TopAntivirusEvasion
-cd Xeexe-TopAntivirusEvasion
-chmod +x install.sh && ./install.sh
-chmod +x Xeexe.py && python3 Xeexe.py
-
-```
-# Requirements
-- Metasploit Framework
-- msfvenom
-- Wine
-- Mingw-w64 Compiler
-
-
-
-## Update Log
-Version 1.0.1 = fix error first time run 
-
- 
-## Youtube Videos 
-
-  - [How To Download & Install Xeexe]()
- 
-
- 
-
-## Credits & Thanks
-
-  [Hack The World](https://github.com/stormshadow07/HackTheWorld/)
-
-
-
-## License
-
-  See the **License** file for more details.
-
-
-
-
-
-## Information
-
- This tool is for educational purpose only, usage of Xeexe for attacking targets without prior mutual consent is illegal.
- Developers assume no liability and are not responsible for any misuse or damage cause by this program.
+## Trailing-Stop-Loss:
+<img src="https://i.ytimg.com/vi/dZFb0-fwqOk/maxresdefault.jpg" height="400">
