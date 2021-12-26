@@ -70,7 +70,7 @@ https://esgeeks.com/xeexe-fud-reverse-shell-metasploit/
  Instructions on how to install *Xeexe*
 
  ```
-git clone https://github.com/persianhydra/Xeexe-TopAntivirusEvasion.git
+git clone https://github.com/META-HYDRA/Xeexe-TopAntivirusEvasion
 cd Xeexe-TopAntivirusEvasion
 chmod +x install.sh && ./install.sh
 chmod +x Xeexe.py && python3 Xeexe.py
