@@ -4,7 +4,7 @@
 
 <H3>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H3>
  
-## ⭐️⭐️⭐️First SNIPER BOT for ANDROID & WINDOWS & Linux with honeypot detector⭐️⭐️⭐️
+##  ⭐️First SNIPER BOT for ANDROID & WINDOWS & Linux with honeypot detector⭐️
  
 <H4>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H4>
 
