@@ -83,8 +83,6 @@ chmod +x Xeexe.py && python3 Xeexe.py
 - Mingw-w64 Compiler
 
 
-#<a href="https://ibb.co/fVRsCgJ"><img src="https://i.ibb.co/ymTr892/xe3.jpg" alt="xe3" border="0"></a><br />
-
 
 ## Update Log
 Version 1.0.1 = fix error first time run 
