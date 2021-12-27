@@ -1,5 +1,5 @@
 # Pancakeswap BSC Sniper Bot web3 (ANDROID WINDOWS MAC LINUX) 🏆 
- 
+
 ## GUI with honeypot detector SNIPER BOT 
 
 <H3>(MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC)</H3>
