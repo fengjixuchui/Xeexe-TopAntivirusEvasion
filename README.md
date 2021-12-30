@@ -1,4 +1,4 @@
-# Pancakeswap BSC Sniper Bot web3 (ANDROID WINDOWS MAC LINUX) 🏆 
+# Pancakeswap BSC Sniper Bot web3 (MAC WINDOWS ANDROID LINUX) 🏆 
 
 ## GUI with honeypot detector SNIPER BOT 
 
